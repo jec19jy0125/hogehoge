@@ -4,4 +4,5 @@ class HelloWorld {
   String name;
   int num;
   int abc;
+  int xyz;
 }
