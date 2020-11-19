@@ -5,4 +5,6 @@ class HelloWorld {
   int num;
   int abc;
   int xyz;
+  HelloWorld(){
+  }
 }
